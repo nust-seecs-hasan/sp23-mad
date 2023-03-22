@@ -10,16 +10,16 @@ The lectures will be organized as separate repositories each having the lecture 
 
 | Week 	| Lecture 	| Material 	| Examples 	|
 |------	|---------	|----------	|----------	|
-| 01   	| [Week01](https://nust-seecs-hasan.github.io/week01) | [Introduction to FLutter](https://docs.flutter.dev/get-started/learn-more) |          	|
-| 02   	| [Week02](https://nust-seecs-hasan.github.io/week02) | [Introduction to DART](https://dart.dev/codelabs/dart-cheatsheet)         	|          	|
-| 03   	| [Week03](https://nust-seecs-hasan.github.io/week03) |          	|          	|
-| 04   	| [Week04](https://nust-seecs-hasan.github.io/week04) |          	|          	|
-| 05   	| [Week05](https://nust-seecs-hasan.github.io/week05) |          	|          	|
-| 06   	| [Week06](https://nust-seecs-hasan.github.io/week06) |          	|          	|
-| 07   	| [Week07](https://nust-seecs-hasan.github.io/week07) |          	|          	|
-| 08   	| [Week08](https://nust-seecs-hasan.github.io/week08) |          	|          	|
-| 09   	| [Week09](https://nust-seecs-hasan.github.io/week09) |          	|          	|
-| 10   	| [Week10](https://nust-seecs-hasan.github.io/week10) |          	|          	|
+| 01   	| [Week01](https://nust-seecs-hasan.github.io/sp23-mad/week01) | [Introduction to FLutter](https://docs.flutter.dev/get-started/learn-more) |          	|
+| 02   	| [Week02](https://nust-seecs-hasan.github.io/sp23-mad/week02) | [Introduction to DART](https://dart.dev/codelabs/dart-cheatsheet)         	|          	|
+| 03   	| [Week03](https://nust-seecs-hasan.github.io/sp23-mad/week03) |          	|          	|
+| 04   	| [Week04](https://nust-seecs-hasan.github.io/sp23-mad/week04) |          	|          	|
+| 05   	| [Week05](https://nust-seecs-hasan.github.io/sp23-mad/week05) |          	|          	|
+| 06   	| [Week06](https://nust-seecs-hasan.github.io/sp23-mad/week06) |          	|          	|
+| 07   	| [Week07](https://nust-seecs-hasan.github.io/sp23-mad/week07) |          	|          	|
+| 08   	| [Week08](https://nust-seecs-hasan.github.io/sp23-mad/week08) |          	|          	|
+| 09   	| [Week09](https://nust-seecs-hasan.github.io/sp23-mad/week09) |          	|          	|
+| 10   	| [Week10](https://nust-seecs-hasan.github.io/sp23-mad/week10) |          	|          	|
 | 11   	| [Week11](https://nust-seecs-hasan.github.io/week11) |          	|          	|
 | 12   	| [Week12](https://nust-seecs-hasan.github.io/week12) |          	|          	|
 | 13   	| [Week13](https://nust-seecs-hasan.github.io/week13) |          	|          	|
