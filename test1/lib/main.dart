@@ -42,8 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 return ListView.builder(
                     itemCount: (heros.data == null) ? 0 : heros.data?.length,
                     itemBuilder: (BuildContext context, int position) {
-                      return ListTile(
-                          title: Text(heros.data.frist);
+                      return ListTile(title: Text(heros.data?.first as String));
                     });
               }),
         ));
