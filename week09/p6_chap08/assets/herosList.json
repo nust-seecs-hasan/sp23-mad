@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Tony",
+    "code": "IronMan",
+    "power": "Rich Scientist Playboy"
+  },
+  {
+    "id": 1,
+    "name": "Bruce",
+    "code": "BatMan",
+    "power": "Rich Scientist Vigilante"
+  },
+  {
+    "id": 2,
+    "name": "Bruce",
+    "code": "Hulk",
+    "power": "Angry Big Guy"
+  }
+]

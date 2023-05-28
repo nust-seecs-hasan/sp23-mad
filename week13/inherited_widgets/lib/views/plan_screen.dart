@@ -1,6 +1,7 @@
-import '../models/data_layer.dart';
-import 'package:model_views/plan_provider.dart';
 import 'package:flutter/material.dart';
+import 'package:inherited_widgets/models/data_layer.dart';
+
+import '../plan_provider.dart';
 
 class PlanScreen extends StatefulWidget {
   @override

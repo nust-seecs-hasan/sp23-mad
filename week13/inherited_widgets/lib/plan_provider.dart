@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:model_views/views/plan_screen.dart';
-import './models/data_layer.dart';
+
+import 'models/plan.dart';
+import 'views/plan_screen.dart';
 
 class PlanProvider extends InheritedWidget {
   final _plan = Plan();
